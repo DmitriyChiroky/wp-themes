@@ -25,5 +25,19 @@ Theme development and modification.
 ### Theme - Web3 Recruitment
 [View Theme](https://web3recruitment.webcomplete.io/) | [Theme Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/web3recruitment)
 
+---
+
+### Theme - Vintage Splendor
+[View Theme](https://vintage-splendor.webcomplete.io/) | [Theme Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/vintage-splendor)
+
+---
+
+### Theme - Lydia Millen
+[View Theme](https://vintage-splendor.webcomplete.io/) | [Theme Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/lydia-millen)
+
+
+
+
+
 
 
