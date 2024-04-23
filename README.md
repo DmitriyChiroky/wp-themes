@@ -29,6 +29,7 @@ Theme development and modification.
 
 ### Theme - Vintage Splendor
 [View Theme](https://vintage-splendor.webcomplete.io/) | [Theme Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/vintage-splendor)
+| [Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/vintage-splendor/README.md)
 
 ---
 
