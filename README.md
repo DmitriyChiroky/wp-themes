@@ -8,13 +8,13 @@ Theme development and modification.
 
 ---
 
-### A&H  
-[View Theme](https://ah.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/ah_theme)
+### Best Of Bali
+[View Theme](https://bestofbali.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/bestofbali_theme)
 
 ---
 
-### Best Of Bali
-[View Theme](https://bestofbali.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/bestofbali_theme)
+### A&H  
+[View Theme](https://ah.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/ah_theme)
 
 ---
 
