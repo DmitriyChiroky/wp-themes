@@ -8,7 +8,7 @@ Theme development and modification.
 
 ---
 
-### Best Of Bali
+### Best of Bali
 [View Theme](https://bestofbali.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/bestofbali_theme)
 
 ---
