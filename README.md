@@ -33,7 +33,7 @@ Theme development and modification.
 ---
 
 ### Theme - Lydia Millen
-[View Theme](https://vintage-splendor.webcomplete.io/) | [Theme Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/lydia-millen)
+[View Theme](https://lydia-millen.webcomplete.io/) | [Theme Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/lydia-millen)
 
 
 
