@@ -3,5 +3,5 @@ Theme development and modification
 
 # Содержание
 
-- [Просмотреть тему](https://ah.webcomplete.io/)
-- [Исходный код темы](ah_theme/)
+Theme - A&H
+[Сайт - Просмотреть тему](https://ah.webcomplete.io/) | [Файлы - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/ah_theme)
