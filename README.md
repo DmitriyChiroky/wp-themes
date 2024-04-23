@@ -20,3 +20,10 @@ Theme development and modification.
 ### Theme - Reway
 [View Theme](https://reway.webcomplete.io/) | [Theme Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/reway)
 
+---
+
+### Theme - Web3 Recruitment
+[View Theme](https://web3recruitment.webcomplete.io/) | [Theme Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/web3recruitment)
+
+
+
