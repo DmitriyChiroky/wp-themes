@@ -2,6 +2,12 @@ Theme development and modification.
 
 ## List of WordPress Themes
 
+### Theme - Vintage Splendor
+[View Theme](https://vintage-splendor.webcomplete.io/) | [Theme Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/vintage-splendor)
+| [Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/vintage-splendor/README.md)
+
+---
+
 ### Theme - A&H  
 [View Theme](https://ah.webcomplete.io/) | [Theme Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/ah_theme)
 
@@ -27,18 +33,7 @@ Theme development and modification.
 
 ---
 
-### Theme - Vintage Splendor
-[View Theme](https://vintage-splendor.webcomplete.io/) | [Theme Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/vintage-splendor)
-| [Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/vintage-splendor/README.md)
-
----
-
 ### Theme - Lydia Millen
 [View Theme](https://lydia-millen.webcomplete.io/) | [Theme Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/lydia-millen)
-
-
-
-
-
 
 
