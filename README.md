@@ -60,7 +60,7 @@ Theme development and modification.
 - cobweb.co.il/raziel: [ссылка](http://www.cobweb.co.il/raziel/)
 - evrst.co.il/icfp/cfp: [ссылка](http://evrst.co.il/icfp/cfp/)
 - cobweb.co.il/conceptacademy: [ссылка](https://www.cobweb.co.il/conceptacademy/)
-- soundclubmag.com: [ссылка](https://soundclubmag.com/)
+- mag-soundclub.webcomplete.io: [ссылка](https://mag-soundclub.webcomplete.io/)
 - maxbrenner.com.au: [ссылка](https://maxbrenner.com.au/)
 - upwork.com/freelancers/: [ссылка](https://www.upwork.com/freelancers/~01dc368f5440123a2e?viewMode=1)
 
