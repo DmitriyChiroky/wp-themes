@@ -36,9 +36,9 @@ Theme development and modification.
 ### Lydia Millen
 [View Theme](https://lydia-millen.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/lydia-millen)
 
+---
 
-
-## Примеры работ:
+## Список примеров работ:
 
 - reway.webcomplete.io: [ссылка](https://reway.webcomplete.io/)
 - vintage-splendor.webcomplete.io: [ссылка](https://vintage-splendor.webcomplete.io/)
