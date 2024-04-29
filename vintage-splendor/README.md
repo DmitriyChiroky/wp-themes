@@ -16,7 +16,7 @@
   - Истории (Stories) – страница категорий с AJAX-фильтрацией и функцией "Загрузить еще".
   - Контакты (Contact) – интеграция CF7 для формы обратной связи.
   - Инстаграм (Instagram) – вывод постов из Instagram.
-  - Также: The Splendor Collective, SC Portal, Social Landing, Privacy Policy.
+  - Также: About, The Splendor Collective, SC Portal, Social Landing, Privacy Policy.
 - Настройка и кастомизация страниц WooCommerce:
   - Страница товара (Single Product) – адаптация страницы продукта WooCommerce Subscriptions в соответствии с дизайном и функционалом.
   - Личный кабинет – добавление возможности загружать пользовательские аватары.
