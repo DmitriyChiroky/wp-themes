@@ -3,7 +3,8 @@
 ## Описание проекта
 
 Корпоративный сайт предлагающий свои услуги.  
-https://reway.webcomplete.io/
+
+Ссылка на сайт: [reway.webcomplete.io](https://reway.webcomplete.io/)
 
 ## Что было сделано
 
