@@ -1,6 +1,4 @@
 
-Краткое описание проекта.
-
 ## Описание
 
 Ссылка на блог: [https://www.avintagesplendor.com/](https://www.avintagesplendor.com/)
