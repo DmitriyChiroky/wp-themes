@@ -5,12 +5,10 @@ Theme development and modification.
 ### Reway
 [Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/reway/README.md) | [View Theme](https://reway.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/reway)
 
-
 ---
 
 ### Vintage Splendor
-[View Theme](https://vintage-splendor.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/vintage-splendor)
-| [Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/vintage-splendor/README.md)
+[Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/vintage-splendor/README.md) | [View Theme](https://vintage-splendor.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/vintage-splendor)
 
 ---
 
