@@ -1,5 +1,5 @@
 
-## Описание
+## Описание проекта
 
 Ссылка на блог: [https://www.avintagesplendor.com/](https://www.avintagesplendor.com/)
 
