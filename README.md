@@ -4,6 +4,7 @@ Theme development and modification.
 
 ### Reway
 [View Theme](https://reway.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/reway)
+| [Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/reway/README.md)
 
 ---
 
