@@ -3,8 +3,8 @@ Theme development and modification.
 ## List of WordPress Themes
 
 ### Reway
-[View Theme](https://reway.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/reway)
-| [Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/reway/README.md)
+[Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/reway/README.md) | [View Theme](https://reway.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/reway)
+
 
 ---
 
