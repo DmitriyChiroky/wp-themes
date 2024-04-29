@@ -2,14 +2,14 @@ Theme development and modification.
 
 ## List of WordPress Themes
 
-### Vintage Splendor
-[View Theme](https://vintage-splendor.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/vintage-splendor)
-| [Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/vintage-splendor/README.md)
+### Reway
+[View Theme](https://reway.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/reway)
 
 ---
 
-### Reway
-[View Theme](https://reway.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/reway)
+### Vintage Splendor
+[View Theme](https://vintage-splendor.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/vintage-splendor)
+| [Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/vintage-splendor/README.md)
 
 ---
 
