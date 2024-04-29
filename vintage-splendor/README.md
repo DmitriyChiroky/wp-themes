@@ -1,9 +1,9 @@
 
 ## Описание проекта
 
-Ссылка на сайт: [https://www.avintagesplendor.com/](https://www.avintagesplendor.com/)
-
 Этот проект представляет собой блог с возможностью доступа к платным статьям через премиум подписку.
+
+Ссылка на сайт: [www.avintagesplendor.com](https://www.avintagesplendor.com/)
 
 ### Выполненные работы
 
