@@ -2,10 +2,8 @@ Theme development and modification.
 
 ## List of WordPress Themes
 
-Наші новини - ТЦ Будівельник
-https://budmarket.org.ua/novyny/
+---
 
-https://budmarket.org.ua/
 
 ### TC Budivelnik
 
