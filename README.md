@@ -12,7 +12,7 @@ Theme development and modification.
 ---
 
 ### A&H  
-[View Theme](https://ah.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/ah_theme)
+[Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/ah_theme/README.md) | [View Theme](https://ah.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/ah_theme)
 
 ---
 
