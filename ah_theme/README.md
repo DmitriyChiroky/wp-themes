@@ -1,7 +1,8 @@
 # A&H WordPress Theme
 
 ## Сайт
-[https://ah.webcomplete.io/](https://ah.webcomplete.io/)
+
+Ссылка на сайт: [ah.webcomplete.io](https://ah.webcomplete.io/)
 
 ## Описание темы
 
