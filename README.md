@@ -16,6 +16,12 @@ Theme development and modification.
 
 ---
 
+### Banasa
+
+[Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/banasa/README.md) | [View Theme](https://banasa.com/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/banasa)
+
+---
+
 ### Reway
 [Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/reway/README.md) | [View Theme](https://reway.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/reway)
 
