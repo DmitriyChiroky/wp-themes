@@ -1,11 +1,12 @@
 # A&H WordPress Theme
 
 ## Сайт
-[https://ah.webcomplete.io/](https://ah.webcomplete.io/)
+
+Ссылка на сайт: [ah.webcomplete.io](https://ah.webcomplete.io/)
 
 ## Описание темы
 
-Тема создана на основе WordPress.
+Тема блога для WordPress, разработанная с учётом SEO, производительности и удобства использования. Включает настраиваемые блоки, фильтрацию постов и оптимизацию загрузки контента.
 
 ### Шаблоны темы
 - Основные файлы шаблонов: `page.php`, `category.php`, `404.php`, `functions.php`.
