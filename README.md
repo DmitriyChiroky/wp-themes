@@ -43,26 +43,6 @@ Theme development and modification.
 
 ---
 
-### Best of Bali
-[View Theme](https://bestofbali.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/bestofbali_theme)
-
----
-
-### Chriselle Lim
-[View Theme](https://chrisellelim.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/chrisellelim_theme)
-
----
-
-### Web3 Recruitment
-[View Theme](https://web3recruitment.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/web3recruitment)
-
----
-
-### Lydia Millen
-[View Theme](https://lydia-millen.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/lydia-millen)
-
----
-
 ## Список примеров работ:
 
 - budmarket.org.ua: [ссылка](https://budmarket.org.ua/)
