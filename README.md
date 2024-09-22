@@ -29,7 +29,7 @@ Theme development and modification.
 ---
 
 ### Crypto Group
-[Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/banasa/README.md) | [View Theme](https://crypto-group.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/banasa)
+[Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/crypto-group/README.md) | [View Theme](https://crypto-group.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/crypto-group)
 
 ---
 
