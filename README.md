@@ -22,6 +22,17 @@ Theme development and modification.
 
 ---
 
+
+### RMA Development
+[Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/banasa/README.md) | [View Theme](https://rmadevelopment.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/banasa)
+
+---
+
+### Crypto Group
+[Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/banasa/README.md) | [View Theme](https://crypto-group.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/banasa)
+
+---
+
 ### Reway
 [Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/reway/README.md) | [View Theme](https://reway.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/reway)
 
@@ -29,26 +40,6 @@ Theme development and modification.
 
 ### Vintage Splendor
 [Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/vintage-splendor/README.md) | [View Theme](https://vintage-splendor.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/vintage-splendor)
-
----
-
-### Best of Bali
-[View Theme](https://bestofbali.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/bestofbali_theme)
-
----
-
-### Chriselle Lim
-[View Theme](https://chrisellelim.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/chrisellelim_theme)
-
----
-
-### Web3 Recruitment
-[View Theme](https://web3recruitment.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/web3recruitment)
-
----
-
-### Lydia Millen
-[View Theme](https://lydia-millen.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/lydia-millen)
 
 ---
 
