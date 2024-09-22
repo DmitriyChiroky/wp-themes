@@ -24,7 +24,7 @@ Theme development and modification.
 
 
 ### RMA Development
-[Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/banasa/README.md) | [View Theme](https://rmadevelopment.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/banasa)
+[Description](https://github.com/DmitriyChiroky/wp-themes/tree/main/rmadevelopment/README.md) | [View Theme](https://rmadevelopment.webcomplete.io/) | [Code - GitHub](https://github.com/DmitriyChiroky/wp-themes/tree/main/rmadevelopment)
 
 ---
 
